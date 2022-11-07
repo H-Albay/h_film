@@ -10,10 +10,10 @@ Projede Kullanılan Teknolojiler & Frameworkler
 
 5-Postman REST API
 
-## Listeye İstenilen Filmi Aratıp Ekleme
+## Filmi Aratıp, Favori Listesine Ekleme
 ![](https://media.giphy.com/media/A0e1TvQvPS7D9JkkPK/giphy.gif)
 
-## Listeye İstenilen Filmi Listeden Çıkarma
+## Filmi Listeden Kaldırma 
 ![](https://media.giphy.com/media/puty27BqErgIqKNbMH/giphy.gif)
 
 
